@@ -10,8 +10,8 @@
 
 Backend and full-stack engineer with 7+ years across fintech, gaming and banking, specializing in payments and blockchain infrastructure. M.S. Computer Science, University of Illinois Urbana-Champaign.
 
-- 💳 **Now:** building stablecoin payment and subscription infrastructure at [Coinsub](https://coinsub.io), a gateway running at a $100M+ annualized processing volume
-- 🎮 **Before:** Head of Engineering at Forkast (formerly Community Gaming). Built and led a 7-person team behind a platform serving 30,000+ monthly active users
+- 💳 **Now:** building stablecoin payment and subscription infrastructure at [Coinsub](https://coinsub.io), a gateway running at a $500M+ annualized processing volume
+- 🎮 **Before:** Head of Engineering at Forkast (formerly Community Gaming). Built and led a 7-person team behind a platform serving 1M+ active users
 - 🏦 **Earlier:** Barclays (Java, Spring, retail banking middleware) and Planetmint blockchain work for Adapa Group
 - 🤖 I use Claude Code, Copilot and Cursor daily, and have built Claude API agents for PR review and JIRA planning
 - 💬 Ask me about **payments, blockchain indexing, ledgers and reconciliation, and passkey/wallet authentication**
